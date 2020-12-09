@@ -1,0 +1,37 @@
+body,html {
+	width: 100%;
+	height: 100%;
+  background:url(https://images.unsplash.com/photo-1548611635-b6e7827d7d4a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8bGFwdG9wfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family:Times;background-color: pink;
+ 
+}
+h1 {
+	font-size: 3rem;
+	color:blue;
+}
+hr {
+	border-width:3px;
+	border-color:blue;
+max-width: 65px;
+}
+.buffer {
+	height:10rem;
+}
+.btn {
+	font-weight: 700px;
+	border-radius:300px;
+	text-transform: uppercase;}
+.btn-xl {
+	padding: 1rem 2rem;
+}
+.btn-warning {
+	background-color: blue;
+}
+.btn-primary:hover{
+	background-color: ee4d45;
+	border-width: 4px;
+}
